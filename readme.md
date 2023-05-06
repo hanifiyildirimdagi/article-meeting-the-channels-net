@@ -1,4 +1,7 @@
 # Sample Journaling System
+
+<a href="https://medium.com/@hanifi.yildirimdagi/meeting-the-channels-in-net-6432ccf072ef">Read The Article</a>
+
 This sample project demonstrates a simple journaling system that uses a message queue to store and process journal items.
 
 ## Overview
